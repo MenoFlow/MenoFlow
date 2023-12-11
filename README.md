@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MenoFlow
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning python 'machine learning' 
-- 👨‍💻 I’m looking to collaborate on my brotherSensei Faniry
+- 👨‍💻 I’m looking to collaborate with my brotherSensei Faniry
 - 📫 How to reach me:
      #insta: menO_0
      #fb   : Miantsa Str
