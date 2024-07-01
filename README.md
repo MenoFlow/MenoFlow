@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @MenoFlow
+- 👋 Hi, I’m @Menoh
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning 'machine learning' 
+- 🌱 I’m currently continue to learn with project React and Laravel 
 - 👨‍💻 I’m looking to collaborate with my brotherSensei Faniry
 - 📫 How to reach me:
-     #insta: menO_0
+     #insta: menO_O
      #fb   : Miantsa Str
      #mail : menoetmi@gmail.com
 
-<!---
-MenoFlow/MenoFlow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
