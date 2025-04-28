@@ -5,5 +5,5 @@
 - 📫 How to reach me:
      #insta: menO_O
      #fb   : Miantsa Str
-     #mail : menoetmi@gmail.com
+     #mail : andriantsoahermenio@gmail.com
 
