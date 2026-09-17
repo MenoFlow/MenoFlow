@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Menoh
-- 👀 I’m interested in AI
-- 🌱 I’m currently continue to learn with project React and Laravel 
-- 👨‍💻 I’m looking to collaborate with my brotherSensei Faniry
+- 👋 Hi, I’m @Hermenio
+- 👀 I’m interested in mobile and web developpement, also AI
+- 👨‍💻 I’m currently keep learning new technology to stay tuned
 - 📫 How to reach me:
-     #insta: menO_O
-     #fb   : Miantsa Str
-     #mail : andriantsoahermenio@gmail.com
-
+     #LinkedIn : linkedin.com/in/hermenio-andriantsoa-431793383/
+     #mail     : andriantsoahermenio@gmail.com
